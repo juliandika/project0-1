@@ -10,13 +10,13 @@
 
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-            <img src="images/1bixbybridge1920x1200.jpg" class="img-responsive" />
+            <img src="images/bg1.png" class="img-responsive" />
             <div class="carousel-caption">
               <h1>PRINTING ONLINE</h1>
             </div>
           </div>
           <div class="item">
-            <img src="images/1giantfern1920x1200" class="img-responsive" />
+            <img src="images/bg2.png" class="img-responsive" />
             <div class="carousel-caption">
               <h1>PRINTING ONLINE</h1>
             </div>
